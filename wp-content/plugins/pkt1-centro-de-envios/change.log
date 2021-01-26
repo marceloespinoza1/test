@@ -1,0 +1,63 @@
+== Changelog ==
+
+= 1.0.1 =
+
+Logotipos de alianza desde response. Resultados como renglones o tarjetas.
+
+= 1.0.3 =
+
+Probada en las últimas versiones de wordpress y woocommerce.
+
+Versión de Lanzamiento v1.0.1 01/04/2020
+
+= 1.0.4 =
+
+Contenido del paquete estatico, editable desde la pantalla de configuracion
+
+
+= 1.0.5 =
+
+Implementacion de API HTTP de wordpress
+Correccion de rutas
+Mejoras en rendimiento
+
+= 1.0.6 =
+
+correccion de bug en tarifas de aseguranza
+configuracion opcional de tiempos de entrega
+
+= 1.0.7 =
+
+correccion de bug en parametro Din
+
+= 1.0.8 =
+
+Mejora en Checkout para MX
+
+= 1.0.9 =
+
+Correccion de bug en valor asegurado
+validaciones adicionales en checkout para CL y MX
+
+= 1.0.10 =
+
+Visualizacion de guia local
+Adecuacion personalizada client id : 431
+
+= 1.1.0 =
+
+Catalogo dinamico de comunas y regiones (CL)
+Reacomodo de campos de checkout
+Habilitacion/inhabilitacion de tiempos de entrega
+Configuracion para Dimensiones y peso Unicos
+
+= 1.1.1 =
+
+Correccion en clave de comuna (CL)
+
+= 1.1.2 =
+
+Configuracion de etiqueta unica
+Mejora en muestreo de etiqueta
+Catalogo dinamico de colonias (MX)
+Reacomodo de campos en Checkout (MX)
